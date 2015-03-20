@@ -1,0 +1,14 @@
+{
+  "name": "AEM-gulp-workflow",
+  "version": "0.1.0",
+  "description": "A LESS update and livereload workflow for frontend development in AEM (CQ).",
+  "repository": "https://github.com/polarbirke/AEM-gulp-workflow.git",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-shell": "^0.2.7",
+    "gulp-notify": "^1.4.2",
+    "gulp-plumber": "~0.6.4",
+    "gulp-util": "~3.0.1",
+    "gulp-livereload": "^3.8.0"
+  }
+}
